@@ -16,7 +16,7 @@ It demonstrates data cleaning, visualization, and insights for improving busines
 
 ## External Files (Hosted on Google Drive)
 - [Download Excel File](https://1drv.ms/x/c/892b8b321f5fe103/EX7JfvRvKLtOprKefDcjfhMBbnUTRaU6_P5QaEbjScjELQ?e=4BElo1)  
-- [Download Power BI Dashboard (.pbix)]((https://1drv.ms/u/c/892b8b321f5fe103/ES9xHXqstSlNsHEfBl0cqLYB3wRh6VT3e5vJxjla7OluRA?e=wwQuEX))  
+- [Download Power BI Dashboard (.pbix)](https://1drv.ms/u/c/892b8b321f5fe103/ES9xHXqstSlNsHEfBl0cqLYB3wRh6VT3e5vJxjla7OluRA?e=fdGjXB)   
 
 ---
 
